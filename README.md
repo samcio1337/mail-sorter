@@ -19,9 +19,10 @@ $ pip install -r requirements.txt
 
 ## TODO
 
-1. Wybór katalogu do eksportu 
+1. ~~Wybór katalogu do eksportu~~
 2. Optymalizacja kodu
-3. Dodać automatyczne usuwanie capture
+3. ~~Dodać automatyczne usuwanie capture~~
+4. Plik json z możliwością ustawiania własnych domen itp (ogólnie konfiguracyjny)
 
 
 Program napisany z dedykacją dla:
