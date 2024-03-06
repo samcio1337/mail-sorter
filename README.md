@@ -34,6 +34,7 @@ $ pip install -r requirements.txt
 2. Optymalizacja kodu
 3. ~~Dodać automatyczne usuwanie capture~~
 4. ~~Plik json z możliwością ustawiania własnych domen itp (ogólnie konfiguracyjny)~~
+5. Możliwość wczytania kilku plików na raz/folder input
 
 
 Program napisany z dedykacją dla:
