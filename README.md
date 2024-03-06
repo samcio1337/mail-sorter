@@ -17,6 +17,17 @@ $ pip install -r requirements.txt
 3. Wybierz plik zawierający adresy do posortowania w formacie `email:haslo`
 4. Po wybraniu pliku program utworzy osobne pliki dla każdej domeny adresów e-mail i zapisze je w bieżącym katalogu.
 
+## Jak dodać własne domeny
+
+1. Otwórz plik config.json
+2. Dodaj na końcu:
+```
+  	"Nazwa pliku": [
+      "@twojadomena.xyz"
+      "@twojadomena2.xyz"
+    ]
+ ```
+
 ## TODO
 
 1. ~~Wybór katalogu do eksportu~~
