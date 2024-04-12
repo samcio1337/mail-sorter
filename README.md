@@ -35,6 +35,16 @@ $ pip install -r requirements.txt
 3. ~~Dodać automatyczne usuwanie capture~~
 4. ~~Plik json z możliwością ustawiania własnych domen itp (ogólnie konfiguracyjny)~~
 5. Możliwość wczytania kilku plików na raz/folder input
+6. Folder do którego exportować posortowane pliki
+7. **GUI** 
+  a) Statystyki
+    - Czas sortowania
+    - Wykres przedstawiający ilość konkretnych kont
+8. Łączenie kilku combo
+9. Mieszanie linijek
+10. Usuwanie duplikatów
+11. Plik "Inne.txt" na konta nieposortowane
+12. Wybór kolorów
 
 
 Program napisany z dedykacją dla:
